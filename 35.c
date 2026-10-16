@@ -29,7 +29,5 @@ for(int i = 0; i < n; i++)
 
  printf("Even numbers = %d\n", even);
  printf("Odd numbers = %d\n", odd);
- 
  return 0;
-
 }
