@@ -38,5 +38,13 @@ int main()
     strcat(str1, str2);
     printf("%s\n", str1);
 
+// Convert str to uppercase and print the result
+    strupr(str1);
+    printf("%s\n", str1);
+
+// Convert str to lowercase and print the result
+    strlwr(str1);
+    printf("%s\n", str1);
+
     return 0;
 }
