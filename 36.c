@@ -1,9 +1,11 @@
-// sring basic
+// string basic operations
+
+
 #include <stdio.h>
 #include <string.h>
 int main() 
-
 {
+
     char str1[20], str2[20];
     printf("Enter a string: \n");
     scanf("%s", str1);
