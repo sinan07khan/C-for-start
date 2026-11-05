@@ -22,7 +22,6 @@ int main()
     strcmp(str1, str2);
     printf("Comparison of str1 and str2: %d\n", strcmp(str1, str2));
 
-
 // Find the first occurrence of str2 in str1 and print the result
 
     strstr(str1, str2);
