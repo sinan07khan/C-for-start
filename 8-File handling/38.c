@@ -8,7 +8,7 @@ int main()
 
     fprintf(fp, "Name: Sinan\n");
     fprintf(fp, "Roll: 101022\n");
-    fprintf(fp," CGPA: 3.75\n");
+    fprintf(fp," CGPA: 4.00\n");
     fprintf(fp, "Department: Computer Science\n");
 
     fclose(fp);
